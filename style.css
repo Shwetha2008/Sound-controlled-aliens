@@ -1,0 +1,47 @@
+body
+{
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
+.main_div
+{
+    background-color: rgba(253, 173, 185, 0.952);
+    height: 97%;
+}
+
+#result_label
+{
+    color: rgb(12, 12, 103);
+}
+.header_div
+{
+    background-color: white;
+}
+.header_div p
+{
+    font-family: 'Noto Sans', sans-serif;
+    color: lightcoral;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+.copyright_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: rgb(90, 184, 243);
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgba(156, 152, 152, 0.926);
+}
+.main_div button
+{
+    margin-top: 30px;
+    width: 30%;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-family: 'Noto Sans', sans-serif;
+}
